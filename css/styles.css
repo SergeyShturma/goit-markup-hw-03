@@ -317,7 +317,7 @@ nav {
   margin-top: 20px;
 }
 
-.address > li:not(:last-child) {
+.address li:not(:last-child) {
   margin-bottom: 9px;
 }
 

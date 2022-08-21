@@ -157,7 +157,7 @@ nav {
 
 .hero {
   text-align: center;
-  padding: 200px;
+  padding: 200px 0;
   background-color: var(--secondary-bgc);
 }
 
@@ -252,7 +252,6 @@ nav {
 }
 
 .team {
-  padding-top: 0;
   background-color: var(--secondary-bgc-dark);
 }
 
@@ -260,7 +259,6 @@ nav {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
-  padding-top: var(--section-padding-top);
   margin-bottom: 50px;
   text-align: center;
 }
@@ -379,7 +377,6 @@ nav {
   flex-wrap: wrap;
   column-gap: var(--column-gap);
   row-gap: var(--row-gap);
-  padding-bottom: var(--section-padding-bottom);
 }
 
 .examples-image-subtitle {
